@@ -24,7 +24,7 @@
 - Tailwind CSS
 - React.js
 
-## <a name="live-website" href="https://murilocsilva.github.io/calculadora-react/">🤸 Live Website</a>
+## <a name="live-website">🤸 Live Website</a>
 
-https://murilocsilva.github.io/Nike-Landing-Page/
+https://murilocsilva.github.io/calculadora-react/
 
