@@ -1,8 +1,30 @@
-# React + Vite
+<div align="center">
+  <br />
+  <br />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h3 align="center">React Calculator</h3>
+  
+  <img align="center" src="https://i.imgur.com/iGB4A9z.png" alt="reactjs" />
+  <br />
+  <br/>
 
-Currently, two official plugins are available:
+   <div align="center">
+     This website was built using ReactJS and Tailwind
+    </div>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+4. 🤸 [Live Website](#live-website)
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- Tailwind CSS
+- React.js
+
+## <a name="live-website" href="https://murilocsilva.github.io/calculadora-react/">🤸 Live Website</a>
+
+https://murilocsilva.github.io/Nike-Landing-Page/
+
